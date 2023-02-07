@@ -39,8 +39,3 @@ logout
 [vagrant@lvm ~]$ exit
 exit
 Script done, file is lvm3.log
-[vagrant@lvm ~]$ ls
-[vagrant@lvm ~]$ ls -l
-total 0
-[vagrant@lvm ~]$ exit
-logout
